@@ -6,6 +6,7 @@ Install gtkmm 4.0
 <details>
     <summary>Debian/Ubuntu</summary>
 
+    Using aptitude
     ```bash
     # apt install libgtkmm-4.0-dev
     ```
@@ -13,6 +14,7 @@ Install gtkmm 4.0
 <details>
     <summary>RedHat/Fedora</summary>
 
+    Using DNF
     ```bash
     # dnf install gtkmm4.0-devel
     ```
@@ -20,6 +22,7 @@ Install gtkmm 4.0
 <details>
     <summary>ArchLinux and derivatives</summary>
 
+    Using pacman
     ```bash
     # pacman -S gtkmm-4.0
     ```
