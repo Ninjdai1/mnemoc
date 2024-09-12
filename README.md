@@ -3,26 +3,32 @@
 ## Dependencies
 
 Install gtkmm 4.0
+
 <details>
     <summary>Debian/Ubuntu</summary>
 
-    Using aptitude
+    Using Aptitude
+
     ```bash
     # apt install libgtkmm-4.0-dev
     ```
 </details>
+
 <details>
     <summary>RedHat/Fedora</summary>
 
     Using DNF
+
     ```bash
     # dnf install gtkmm4.0-devel
     ```
 </details>
+
 <details>
     <summary>ArchLinux and derivatives</summary>
 
-    Using pacman
+    Using Pacman
+
     ```bash
     # pacman -S gtkmm-4.0
     ```
